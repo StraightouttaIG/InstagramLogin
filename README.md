@@ -2,4 +2,4 @@
 Instagram API Login
 -----
 
-Simple instagram login using api coded in python.
+Simple Instagram Login using their Private API coded in Python
